@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\Learn\\NETMicroservices\\PlatformService\\PlatformService.csproj": {}
+    "E:\\Learn\\NETMicroservices\\PlatformService\\PlatformService.csproj": {}
   },
   "projects": {
-    "e:\\Learn\\NETMicroservices\\PlatformService\\PlatformService.csproj": {
+    "E:\\Learn\\NETMicroservices\\PlatformService\\PlatformService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Learn\\NETMicroservices\\PlatformService\\PlatformService.csproj",
+        "projectUniqueName": "E:\\Learn\\NETMicroservices\\PlatformService\\PlatformService.csproj",
         "projectName": "PlatformService",
-        "projectPath": "e:\\Learn\\NETMicroservices\\PlatformService\\PlatformService.csproj",
+        "projectPath": "E:\\Learn\\NETMicroservices\\PlatformService\\PlatformService.csproj",
         "packagesPath": "C:\\Users\\rifqa\\.nuget\\packages\\",
-        "outputPath": "e:\\Learn\\NETMicroservices\\PlatformService\\obj\\",
+        "outputPath": "E:\\Learn\\NETMicroservices\\PlatformService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rifqa\\AppData\\Roaming\\NuGet\\NuGet.Config",

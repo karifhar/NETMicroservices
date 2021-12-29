@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1wHQ0krTwTdr+4p0I7Bcf+WtaWmdAhhg8Jt+ftL2/7Rh79KgtdQZpQ6tVneX/m8ewpnu7K7Tdx9ViUbl0d1/2w==",
+  "dgSpecHash": "i/MeZ143NloBFkrWfy+aDnK6FhAcfoRe76Pbv7Zpvxcrs/Ve2coMCgg+qHj/8XLFUnYIrtg6UkbTZgIKfzRm0Q==",
   "success": true,
-  "projectFilePath": "e:\\Learn\\NETMicroservices\\PlatformService\\PlatformService.csproj",
+  "projectFilePath": "E:\\Learn\\NETMicroservices\\PlatformService\\PlatformService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rifqa\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\rifqa\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
