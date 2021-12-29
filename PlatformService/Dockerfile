@@ -1,0 +1,1 @@
+FROM mcr.microsoft/dotnet/sdk:50 as build-env
