@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Workshop\\NETMicroservices\\PlatformService\\PlatformService.csproj": {}
+    "e:\\Learn\\NETMicroservices\\PlatformService\\PlatformService.csproj": {}
   },
   "projects": {
-    "D:\\Workshop\\NETMicroservices\\PlatformService\\PlatformService.csproj": {
+    "e:\\Learn\\NETMicroservices\\PlatformService\\PlatformService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Workshop\\NETMicroservices\\PlatformService\\PlatformService.csproj",
+        "projectUniqueName": "e:\\Learn\\NETMicroservices\\PlatformService\\PlatformService.csproj",
         "projectName": "PlatformService",
-        "projectPath": "D:\\Workshop\\NETMicroservices\\PlatformService\\PlatformService.csproj",
-        "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-        "outputPath": "D:\\Workshop\\NETMicroservices\\PlatformService\\obj\\",
+        "projectPath": "e:\\Learn\\NETMicroservices\\PlatformService\\PlatformService.csproj",
+        "packagesPath": "C:\\Users\\rifqa\\.nuget\\packages\\",
+        "outputPath": "e:\\Learn\\NETMicroservices\\PlatformService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rifqa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "D:\\UIPath Project\\NewPackage": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
